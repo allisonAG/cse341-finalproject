@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/allisonAG/cse341-finalproject/issues"
   },
-  "homepage": "https://github.com/allisonAG/cse341-finalproject#readme"
+  "homepage": "https://github.com/allisonAG/cse341-finalproject#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
 }
